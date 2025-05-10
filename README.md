@@ -1,6 +1,9 @@
+###### I'm Timfey
 ## Hello World! 👋
-
+# SAMP | CRMP
 Я Тимофей, учу (скорее, мучаю свои мозги, пытаясь выучить эти чертовы плюсы) C++ | Занимаюсь SAMPом 
+
+
 <!--
 **HikaSear/HikaSear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
