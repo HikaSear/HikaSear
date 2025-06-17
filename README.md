@@ -8,6 +8,6 @@
 </p>
 
 ## То, с чем я из навыков умею проффесиАНАЛьно работать
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=sublime,vscode,pycharm,rider,unity,photoshop,cs,github,python,powershell,linux,arch" />
 </p>
