@@ -1,13 +1,8 @@
 ### Info
-Я Тимофей, мне **13**, учу (скорее, мучаю свои мозги, пытаясь выучить эти чертовы плюсы) C++ | Занимаюсь SAMPом 
+Я Тимофей, мне **13**, занимаюсь программированием 
 
-## ЯП
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,github,python" />
-</p>
-
-## Прочее
+## Навыки
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,androidstudio,pycharm,clion,rider,unity,unreal,photoshop,figma" />
+  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,androidstudio,pycharm,clion,rider,unity,unreal,photoshop,figma,cpp,cs,github,python,java,powershell,wordpress,linux,arch,mint,ubuntu,stackoverflow" />
 </p>
