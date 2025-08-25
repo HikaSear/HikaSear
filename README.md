@@ -11,3 +11,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,pycharm,rider,clion,blender,unity,photoshop,cpp,cs,github,python,figma,arch" />
 </p>
+
+# Моя студия в ТГК
+[![Frame-3.png](https://i.postimg.cc/0NrKk0Cw/Frame-3.png)](https://postimg.cc/sBdgKSqj)
