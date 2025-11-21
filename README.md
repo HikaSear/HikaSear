@@ -9,5 +9,5 @@
 
 ## То, с чем я из навыков умею проффесиАНАЛьно работать
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,intelliijea,clion,blender,unity,cpp,java,github,figma,bash" />
+  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,clion,blender,unity,cpp,java,github,figma,bash" />
 </p>
