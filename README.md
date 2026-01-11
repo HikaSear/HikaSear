@@ -5,12 +5,12 @@
 ## Все, с чем я работаю или работал
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,androidstudio,pycharm,clion,rider,blender,unity,unreal,photoshop,figma,cpp,cs,github,python,java,powershell,wordpress,linux,arch,mint,ubuntu,stackoverflow,fedora" />
+  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,androidstudio,pycharm,clion,rider,idea,blender,unity,unreal,photoshop,figma,cpp,cs,github,python,java,powershell,wordpress,linux,arch,mint,ubuntu,stackoverflow,fedora" />
 </p>
 
 ## То, с чем я из навыков умею профессионально работать
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,intellijidea,blender,unity,java,github,figma,bash" />
+  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,idea,blender,unity,java,github,figma,bash" />
 </p>
 
 ## Приятный бонус
