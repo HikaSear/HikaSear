@@ -10,7 +10,7 @@
 
 ## То, с чем я из навыков умею профессионально работать
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,idea,blender,unity,java,github,figma,bash" />
+  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,idea,rider,blender,unity,java,cs,github,figma,bash" />
 </p>
 
 ## Приятный бонус
