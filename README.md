@@ -12,3 +12,5 @@ Hallo, ich bin ein Indie-Entwickler. Besitze:
 - C# auf einer sicheren Ebene (Middle)
 - Python auf Einstiegsebene (schlechter als Junior, aber einfache Aufgaben können ausgeführt werden)
 - Unity auf einer sicheren Einheit (ich arbeite seit 2022 mit dieser Engine)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HikaSear&style=flat-square&color=142850)
